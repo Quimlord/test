@@ -1,4 +1,4 @@
-import fetchImages from './js/pickabay-api';
+import fetchImages from './js/pixabay-api';
 import {
   hideLoader,
   renderImages,
